@@ -48,8 +48,23 @@ div.agrupamento{
     padding: 10px;
 }
 .personalizado:hover{
-    color: rgb(39,7,70);
+    color: rgb(92, 58, 126);
     background-color: rgba(29,9,48,0.616);
     margin: 30px;
     padding: 20px;
+}
+.pseudo>span{
+    display: none;
+}
+.pseudo:hover> span{
+    display:block ;
+    background-color: dark;
+}
+h3::selection{
+    color: red;
+    background-color: yellow;
+}
+p::first-letter{
+    color: red;
+    font-size: xx-large;
 }
