@@ -1,0 +1,16 @@
+div{
+    background-color: purple;
+    margin: 10px;
+}
+
+span{
+ font-weight: bold;
+}
+h1#principal{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:rebeccapurple;
+    background-color: rgb(29,9,48);
+}
+
+   
