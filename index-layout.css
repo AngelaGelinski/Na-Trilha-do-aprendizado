@@ -4,3 +4,19 @@ body{
     width: 90%;
     margin: 0 auto;
 }
+header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(235, 137, 154);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.principal{
+    float: left;
+    margin: 15px 2px 25px 2px;
+    background-color: gainsboro;
+}
+.conteudo{
+    float: left;
+    margin: 15px 2px 25px 2px;
+    background-color: gainsboro;
+}
