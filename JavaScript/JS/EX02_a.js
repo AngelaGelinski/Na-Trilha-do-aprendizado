@@ -1,1 +1,1 @@
-confirm("Condirmação e, script externo")
+confirm("Condirmação do script externo")
