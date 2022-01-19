@@ -5,7 +5,6 @@ while(cont<10){
     cont++
 }
 
-for(cont=0; cont<10; cont++)
-{
+for(cont=0; cont<10; cont++){
     alert("Como deixar o usuario louco com for"+cont)
 }
